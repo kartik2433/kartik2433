@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartik2433
+- 👋 Hi, I’m Kartik Bhatiya.
 - 👀 I’m interested in Learning New Things.
 - 🌱 I’m currently learning Computer Science.
 
