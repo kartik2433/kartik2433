@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartik Bhatiya.
 - 👀 I’m interested in Learning New Things.
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently learning Computer Science Engineering.
 
 <!---
 kartik2433/kartik2433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
