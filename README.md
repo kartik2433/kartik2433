@@ -10,6 +10,8 @@
 <img align="right" height="150" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"  />
 
 ###
+[![An image of @kartik2433's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik2433)](https://holopin.io/@kartik2433)
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
