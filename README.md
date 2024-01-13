@@ -1,13 +1,13 @@
+
 <h2 align="left">Hi 👋! My name is Kartik and I'm a Problem solver from India</h2>
 
-###
+<div class="flex flex-wrap gap-50 justify-center items-center aspect-w-3 aspect-h-2"> 
+  
+<img class="h-150 object-cover" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=kartik2433" height="150" alt="languages graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=kartik2433" height="150" alt="languages graph"  />
+<img class="h-150 object-cover" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"  />
+
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"  />
 
 ###
 [![An image of @kartik2433's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik2433)](https://holopin.io/@kartik2433)
@@ -19,8 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  /> -->
 </div>
 
 ###
