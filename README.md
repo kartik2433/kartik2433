@@ -25,6 +25,9 @@
 
 ###
 
+![Snake Animation](https://raw.githubusercontent.com/kartik2433/kartik2433/output/snake.svg)
+
+
 <br clear="both">
 
 <div align="left">
